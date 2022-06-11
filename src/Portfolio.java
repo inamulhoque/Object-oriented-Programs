@@ -21,7 +21,4 @@ public class Portfolio {
             System.out.println("Total value of " + shareName + " shares: " + totalPrice);
         }
     }
-    public static void main(String[] args) {
-        stockDetails();
-    }
 }
